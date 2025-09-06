@@ -3,7 +3,7 @@ numpy==1.21.5
 numpy==1.22.4
 protobuf==4.25.8
 scikit_learn==1.0.2
-torch==2.2.2
+torch==2.8.0
 torchlens==0.1.15
 torchsummary==1.5.1
 torchvision==0.17.2
